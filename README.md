@@ -1,213 +1,301 @@
-<div align="center">
-
 # SHIVA KUMAR KAVALI
 
-### AI/ML Engineer • Cloud & Distributed Systems • Backend Engineering
+### AI/ML Engineer · Backend Engineer · Cloud & Distributed Systems
 
-Building intelligent, scalable systems with Machine Learning, Backend Engineering, Cloud Infrastructure, and Distributed Systems.
+<p align="center">
+  <b>Building intelligent, scalable, and reliable systems.</b><br/>
+  Machine Learning × Backend Engineering × Cloud Infrastructure × Distributed Systems
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shiva-kumar-1319)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/shivakumarnaidu/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shivakumar1319)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivakumar867df@gmail.com)
+<p align="center">
+  <a href="https://github.com/shiva-kumar-1319">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/shivakumarnaidu/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/shivakumar1319">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+  <a href="mailto:shivakumar867df@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+---
 
-<br>
+## 👨‍💻 About Me
 
-<div align="center">
+I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning at Maturi Venkata Subbarao Engineering College (MVSREC), Hyderabad.**
 
-| 🎓 B.Tech | 🤖 AI/ML | ☁️ Cloud |
-|:---:|:---:|:---:|
-| AI & ML, MVSREC | ML Engineering | Docker · Kubernetes |
+I'm passionate about building production-oriented systems at the intersection of AI/ML, backend engineering, and cloud infrastructure.
 
-| 💻 DSA | 🚀 Projects | 🏆 Achievements |
-|:---:|:---:|:---:|
-| 500+ LeetCode | Cloud + AI Systems | Amazon MLSS · Top 10 National |
+I enjoy taking projects beyond basic functionality — designing APIs, building distributed components, integrating machine learning, implementing observability, and thinking about reliability and failure recovery.
 
-</div>
+### Areas of Interest
 
-<br>
+- ☁️ **Cloud-Native Engineering:** Microservices, Kubernetes, Docker, Infrastructure as Code.
+- 🧠 **AI/ML Engineering:** Machine Learning, Deep Learning, NLP, Computer Vision.
+- 🔍 **Retrieval Systems:** RAG, LangChain, FAISS, document intelligence, LLM applications.
+- ⚙️ **Backend Engineering:** REST APIs, authentication, PostgreSQL, message queues.
+- 🧮 **Problem Solving:** Data Structures, Algorithms, and Competitive Programming.
 
-## 🧑‍💻 About Me
+---
 
-I'm a B.Tech AI & Machine Learning student building production-style systems that sit at the intersection of ML, backend engineering, and cloud infrastructure. I like taking a system past the "it works on my machine" stage — wiring up observability, containerizing services, and thinking about failure modes, not just the happy path.
+## 📊 Developer Snapshot
 
-Recent focus areas:
+| Area | Highlights |
+|---|---|
+| 🎓 Education | B.Tech AI & ML, MVSREC |
+| 🤖 Engineering | AI/ML, Backend & Cloud |
+| 💻 Problem Solving | 500+ LeetCode problems |
+| ☁️ Infrastructure | Docker, Kubernetes, Terraform |
+| 🏆 Achievement | Amazon ML Summer School 2026 — Top 3,000 |
+| 🥇 Hackathon | Visionary Hackathon 2.0 — National Top 10 |
 
-- 🔁 Self-healing infrastructure — combining ML anomaly detection with automated Kubernetes remediation
-- 🧠 Retrieval-augmented systems — document QA and research assistants built on LangChain, FAISS, and LLM APIs
-- ☁️ Cloud-native architecture — microservices, message queues, Infrastructure as Code
-- 🧮 Strengthening DSA and systems fundamentals through consistent competitive programming
+---
 
-<br>
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+### Programming Languages
 
-**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+</p>
 
-![Python](https://skillicons.dev/icons?i=python) ![SQL](https://skillicons.dev/icons?i=mysql) ![JS](https://skillicons.dev/icons?i=js)
+`SQL`
 
-**AI / Machine Learning**
+### AI / Machine Learning
 
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://skillicons.dev/icons?i=pandas) ![NumPy](https://skillicons.dev/icons?i=numpy) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-4285F4?style=flat-square&logo=meta&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-00599C?style=flat"/>
+</p>
 
-**Backend**
+`Pandas` · `NumPy` · `Transformers` · `Embeddings` · `RAG`
 
-![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+### Backend Engineering
 
-**Cloud / DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
+</p>
 
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Terraform](https://skillicons.dev/icons?i=terraform) ![AWS](https://skillicons.dev/icons?i=aws) ![GitHubActions](https://skillicons.dev/icons?i=githubactions) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://skillicons.dev/icons?i=grafana)
+`REST APIs` · `JWT` · `bcrypt` · `Microservices` · `API Design`
 
-**Development**
+### Cloud & DevOps
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Linux](https://skillicons.dev/icons?i=linux)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,prometheus,grafana,linux" />
+</p>
 
-<br>
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ☁️ CloudPulse
+### ☁️ 01. CloudPulse
 **Self-Healing Cloud-Native Microservices Platform**
 
 `FastAPI` `PostgreSQL` `RabbitMQ` `Docker` `Kubernetes` `Terraform` `Prometheus` `Grafana` `Isolation Forest`
 
-A microservices platform (auth, order, inventory services) where an ML anomaly detector watches Prometheus telemetry in real time. When latency spikes or error rates cross a threshold, a Remediation Controller validates safety guardrails (confidence threshold, cooldown window, rate limits) and calls the Kubernetes API to recycle or scale pods — closing the loop from detection to recovery automatically.
+A cloud-native microservices platform featuring an ML-powered anomaly detection and automated remediation pipeline.
 
+Prometheus monitors service telemetry in real time. An Isolation Forest anomaly detector identifies abnormal behaviour, while a Remediation Controller validates safety guardrails before interacting with the Kubernetes API to recycle or scale pods.
+
+**Architecture**
+
+```text
+Auth / Order / Inventory Services
+                |
+             RabbitMQ
+                |
+       Prometheus Monitoring
+                |
+       ML Anomaly Detection
+         (Isolation Forest)
+                |
+       Remediation Controller
+                |
+         Safety Guardrails
+                |
+          Kubernetes API
+                |
+       Automated Recovery
 ```
-Microservices → RabbitMQ → Prometheus
-   → ML Anomaly Detection (Isolation Forest)
-   → Remediation Controller → Kubernetes API → Recovery
-```
 
-**[Repository →](https://github.com/shiva-kumar-1319/CloudPulse)**
+**Key Engineering Highlights**
+- ML-based infrastructure anomaly detection.
+- Event-driven microservices architecture.
+- Automated Kubernetes remediation.
+- Monitoring, observability, and recovery guardrails.
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🧠 NeuralQuery
+### 🧠 02. NeuralQuery
 **AI Research Assistant**
 
-`Flask` `PostgreSQL` `Gemini 2.0 Flash` `JWT` `REST`
+`Flask` `PostgreSQL` `Gemini 2.0 Flash` `JWT` `bcrypt` `REST APIs`
 
-A research assistant backend with JWT (HS256) authentication, bcrypt password hashing, and 10+ REST endpoints across a 4-table indexed schema, deployed on Render. Answers research queries via Gemini 2.0 Flash with ~79–85% accuracy across test queries.
+An AI research assistant backend designed to process research queries using Gemini 2.0 Flash, with authentication, structured data storage, and research workflows.
 
-⭐ 10+ REST API endpoints, 4-table schema with 7 indexes
-⭐ JWT + bcrypt authentication
-⭐ Deployed and reachable on Render
+**Key Engineering Highlights**
+- Built 10+ REST API endpoints.
+- Implemented JWT (HS256) authentication and bcrypt password hashing.
+- Designed a normalized four-table PostgreSQL schema with seven indexes.
+- Deployed on Render.
+- Approximately 79–85% reported accuracy across tested queries.
 
-**[Repository →](https://github.com/shiva-kumar-1319)**
+[↗ View NeuralQuery Repository](https://github.com/shiva-kumar-1319/NeuralQuery)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📄 IDQS — Intelligent Document Query System
+### 📄 03. IDQS — Intelligent Document Query System
 **Multi-PDF Conversational Retrieval**
 
-`LangChain` `FAISS` `flan-t5-base`
+`LangChain` `FAISS` `flan-t5-base` `NLP` `Vector Search`
 
-A document QA system built on LangChain's ConversationalRetrievalChain, using a FAISS vectorstore over `flan-t5-base` embeddings. Chunks documents with a CharacterTextSplitter (size 1000, overlap 200) and supports querying across up to 5 PDFs simultaneously — validated across 20–30 test queries.
+A conversational document question-answering system that enables users to retrieve relevant information from multiple PDF documents.
 
-⭐ Multi-document (up to 5 PDFs) conversational retrieval
-⭐ Tuned chunking strategy for retrieval quality
+Built using LangChain's ConversationalRetrievalChain and a FAISS vectorstore.
 
-**[Repository →](https://github.com/shiva-kumar-1319)**
+**Key Engineering Highlights**
+- Supports querying across up to five PDFs simultaneously.
+- Uses FAISS for vector similarity search.
+- CharacterTextSplitter configured with chunk size 1,000 and overlap 200.
+- Validated across approximately 20–30 test queries.
 
-</td>
-<td width="50%" valign="top">
+[↗ View PDF Chat Repository](https://github.com/shiva-kumar-1319/Chat-with-Multiple-PDF-s)
 
-### 🐾 Animal Keypoint Estimation Suite
+---
+
+### 🐾 04. Animal Keypoint Estimation Suite
 **Real-Time 2D Skeletal Keypoint Detection**
 
-`YOLOv8` `RTMPose` `ONNX`
+`YOLOv8` `RTMPose` `ONNX` `Computer Vision` `Deep Learning`
 
-Browser-based real-time 2D skeletal keypoint detection for quadruped animals (cats, dogs, cows, horses, sheep), using a YOLOv8-nano + RTMPose-Medium ONNX pipeline with AP-10K → Animal-Pose 20-joint schema mapping.
+A browser-based real-time animal pose estimation pipeline designed to detect 2D skeletal keypoints across multiple quadruped species.
 
-⭐ Runs in-browser in real time
-⭐ Generalized across 5 animal species via a shared joint schema
+Uses YOLOv8-Nano and RTMPose-Medium ONNX models with AP-10K to Animal-Pose 20-joint schema mapping.
 
-**[Repository →](https://github.com/shiva-kumar-1319)**
+**Key Engineering Highlights**
+- Real-time browser-based inference.
+- Supports cats, dogs, cows, horses, and sheep.
+- Shared 20-joint schema across animal species.
+- ONNX-based model inference.
 
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 🧠 Competitive Programming & DSA
 
-<div align="center">
+Consistently strengthening problem-solving skills through algorithmic practice and competitive programming.
 
-| 🟡 LeetCode | 🔵 Codeforces | 🟠 CodeChef |
-|:---:|:---:|:---:|
-| 500+ problems solved | ~1200 rating (peak ~1255, Pupil) | 3★ rated |
-| [View Profile →](https://leetcode.com/u/shivakumarnaidu/) | [View Profile →](https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu) | [View Profile →](https://www.codechef.com/users/shivakumar1319) |
+<p align="center">
+  <a href="https://leetcode.com/u/shivakumarnaidu/">
+    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu">
+    <img src="https://img.shields.io/badge/Codeforces-1200%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://www.codechef.com/users/shivakumar1319">
+    <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+| Platform | Achievement |
+|---|---|
+| LeetCode | 500+ problems solved |
+| Codeforces | ~1200 rating, peak ~1255 (Pupil) |
+| CodeChef | 3-Star rated |
 
-<br>
+---
 
 ## 🏆 Achievements
 
-**🏆 Amazon ML Summer School 2026**
-Selected among the Top 3,000 participants nationwide. Focused on core machine learning concepts and applied technical learning.
+### 🥇 Amazon ML Summer School 2026
 
-**🏆 Visionary Hackathon 2.0 (Mercer Mettl / Xathon)**
-Top 10 finish nationally — submitted AuraAssess, a WebXR-based project.
+Selected among the **Top 3,000 participants nationwide**. Focused on core machine learning concepts and applied technical learning.
 
-**📜 Certifications**
-- AWS Academy AI-ML (AICTE EduSkills National Internship Program)
-- Infosys Springboard — Natural Language Processing for Developers
-- Oracle Java Foundations (Oct 2024)
-- Oracle Database Programming with SQL (Nov 2024)
+### 🏆 Visionary Hackathon 2.0 — Mercer Mettl / Xathon
 
-<br>
+Achieved a **Top 10 national finish** with AuraAssess, a WebXR-based project.
+
+[↗ View AuraAssess Repository](https://github.com/shiva-kumar-1319/Visinory-Hackthon---AuraAssess-WebXR)
+
+---
+
+## 📜 Certifications
+
+- AWS Academy AI-ML — AICTE EduSkills National Internship Program.
+- Infosys Springboard — Natural Language Processing for Developers.
+- Oracle Java Foundations — October 2024.
+- Oracle Database Programming with SQL — November 2024.
+
+---
 
 ## 🔭 Currently Building
 
-```
-☁️  Cloud-native systems with ML-powered monitoring
-☸️  Kubernetes automation and self-healing infrastructure
-🧠  Applied Machine Learning for real-world backend systems
-⚙️  Distributed systems fundamentals
-```
+- ☁️ Cloud-native systems with ML-powered monitoring.
+- ☸️ Kubernetes automation and self-healing infrastructure.
+- 🧠 Applied Machine Learning for real-world backend systems.
+- ⚙️ Distributed systems and reliable backend architectures.
 
 ## 📚 Currently Learning
 
 `Distributed Systems` · `System Design` · `Kubernetes` · `MLOps` · `Cloud Architecture` · `Advanced ML` · `DSA`
 
-<br>
+---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shiva-kumar-1319&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-kumar-1319&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiva-kumar-1319&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=shiva-kumar-1319&theme=transparent&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-kumar-1319&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-kumar-1319&theme=github-compact&hide_border=true" />
+</p>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shiva-kumar-1319&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
+---
 
 ## 🤝 Let's Connect
 
-Interested in AI/ML, Cloud Engineering, Distributed Systems, Backend Engineering, Research, Internships, and collaborative projects.
+I'm interested in opportunities and collaborations involving:
 
-<div align="center">
+**Software Engineering · AI/ML · Backend Development · Cloud Infrastructure · Distributed Systems · Research**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivakumar867df@gmail.com)
+Always open to connecting with engineers, researchers, developers, and teams building interesting technology.
 
-</div>
+<p align="center">
+  <a href="https://github.com/shiva-kumar-1319">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:shivakumar867df@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems, one project at a time.</i>
+</p>
