@@ -1,239 +1,307 @@
-# SHIVA KUMAR KAVALI
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 
-### AI/ML Engineer · Backend Engineer · Cloud & Distributed Systems
+<div align="center">
 
-<p align="center">
-  <b>Building intelligent, scalable, and reliable systems.</b><br/>
-  Machine Learning × Backend Engineering × Cloud Infrastructure × Distributed Systems
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=250&section=header&text=SHIVA%20KUMAR%20KAVALI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20BACKEND%20ENGINEER%20%E2%80%A2%20CLOUD%20%26%20SYSTEMS&descAlignY=58&descSize=16&descColor=00D9FF" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/shiva-kumar-1319">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/shivakumarnaidu/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/shivakumar1319">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="mailto:shivakumar867df@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+intelligent+systems;%E2%9A%A1+Backend+%26+Distributed+Systems;%F0%9F%A7%A0+Machine+Learning+%26+Deep+Learning;%E2%98%81%EF%B8%8F+Cloud+Native+Engineering;%F0%9F%9A%80+Turning+ideas+into+working+products)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/shivakumarnaidu/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://www.codechef.com/users/shivakumar1319">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://protfolio-orcin-tau.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7B2FFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:shivakumar867df@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shiva-kumar-1319&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge)
+
+</div>
 
 ---
 
+<!-- ═══════════════════════ CONTRIBUTION SNAKE ═══════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
+
 ## 👨‍💻 About Me
 
-I'm a B.Tech student specializing in **Artificial Intelligence and Machine Learning at Maturi Venkata Subbarao Engineering College (MVSREC), Hyderabad.**
+```yaml
+Name         : Shiva Kumar Kavali
+Location     : Hyderabad, India
+Education    : B.Tech - Artificial Intelligence & Machine Learning
+College      : Maturi Venkata Subbarao Engineering College (MVSREC)
+
+Engineering Focus:
+  - AI / ML Engineering
+  - Backend Development
+  - Cloud Infrastructure
+  - Distributed Systems
+  - Data Structures & Algorithms
+
+Currently Building:
+  - ML-powered self-healing infrastructure
+  - AI research and retrieval systems
+  - Cloud-native microservices
+
+Currently Learning:
+  - System Design
+  - Kubernetes
+  - Distributed Systems
+  - MLOps
+```
 
 I'm passionate about building production-oriented systems at the intersection of AI/ML, backend engineering, and cloud infrastructure.
 
-I enjoy taking projects beyond basic functionality — designing APIs, building distributed components, integrating machine learning, implementing observability, and thinking about reliability and failure recovery.
+I enjoy taking projects beyond basic functionality — designing APIs, integrating machine learning, building distributed components, implementing observability, and thinking about reliability and failure recovery.
 
-### Areas of Interest
+### 🎯 Core Interests
 
-- ☁️ **Cloud-Native Engineering:** Microservices, Kubernetes, Docker, Infrastructure as Code.
-- 🧠 **AI/ML Engineering:** Machine Learning, Deep Learning, NLP, Computer Vision.
-- 🔍 **Retrieval Systems:** RAG, LangChain, FAISS, document intelligence, LLM applications.
-- ⚙️ **Backend Engineering:** REST APIs, authentication, PostgreSQL, message queues.
-- 🧮 **Problem Solving:** Data Structures, Algorithms, and Competitive Programming.
+- ☁️ Cloud-Native Engineering — Microservices, Kubernetes, Docker, Infrastructure as Code.
+- 🧠 AI/ML Engineering — Machine Learning, Deep Learning, NLP, Computer Vision.
+- 🔍 Retrieval Systems — RAG, LangChain, FAISS, document intelligence.
+- ⚙️ Backend Engineering — REST APIs, authentication, PostgreSQL, message queues.
+- 🧮 Problem Solving — Data Structures, Algorithms, Competitive Programming.
 
 ---
 
 ## 📊 Developer Snapshot
 
-| Area | Highlights |
-|---|---|
-| 🎓 Education | B.Tech AI & ML, MVSREC |
-| 🤖 Engineering | AI/ML, Backend & Cloud |
-| 💻 Problem Solving | 500+ LeetCode problems |
-| ☁️ Infrastructure | Docker, Kubernetes, Terraform |
-| 🏆 Achievement | Amazon ML Summer School 2026 — Top 3,000 |
-| 🥇 Hackathon | Visionary Hackathon 2.0 — National Top 10 |
+<div align="center">
+
+| 🎓 Education | 🤖 Engineering | 💻 DSA | 🏆 Achievement |
+|:---:|:---:|:---:|:---:|
+| B.Tech AI/ML | AI + Backend + Cloud | 500+ LeetCode | Amazon MLSS Top 3,000 |
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
-### Programming Languages
+## 📈 GitHub Statistics
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
-</p>
+<div align="center">
 
-`SQL`
+<a href="https://github-readme-stats.vercel.app/api?username=shiva-kumar-1319&show_icons=true&theme=transparent&hide_border=true&rank_icon=github">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shiva-kumar-1319&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</a>
 
-### AI / Machine Learning
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-kumar-1319&layout=compact&theme=transparent&hide_border=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-kumar-1319&layout=compact&theme=transparent&hide_border=true" />
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
-  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-00599C?style=flat"/>
-</p>
+<br/>
 
-`Pandas` · `NumPy` · `Transformers` · `Embeddings` · `RAG`
+<img width="75%" src="https://streak-stats.demolab.com?user=shiva-kumar-1319&theme=transparent&hide_border=true" alt="GitHub streak"/>
 
-### Backend Engineering
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-kumar-1319&theme=github-compact&hide_border=true" alt="GitHub contribution activity"/>
 
-`REST APIs` · `JWT` · `bcrypt` · `Microservices` · `API Design`
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,prometheus,grafana,linux" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
-</p>
+</div>
 
 ---
+
+<!-- ═══════════════════════ LEETCODE ═══════════════════════ -->
+
+## 🧠 Competitive Programming — LeetCode
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shivakumarnaidu/">
+<img src="https://img.shields.io/badge/VIEW_FULL_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://leetcard.jacoblin.cool/shivakumarnaidu?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=10" width="85%" alt="LeetCode stats and submission heatmap"/>
+
+<br/>
+
+🔥 **500+ Problems Solved**
+
+</div>
+
+---
+
+## 🌐 Other Coding Profiles
+
+<div align="center">
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-View_Profile-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-View_Profile-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/shivakumar1319)
+
+</div>
+
+---
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
 ## 🚀 Featured Projects
 
-### ☁️ 01. CloudPulse
+### ☁️ CloudPulse
 **Self-Healing Cloud-Native Microservices Platform**
 
 `FastAPI` `PostgreSQL` `RabbitMQ` `Docker` `Kubernetes` `Terraform` `Prometheus` `Grafana` `Isolation Forest`
 
-A cloud-native microservices platform featuring an ML-powered anomaly detection and automated remediation pipeline.
-
-Prometheus monitors service telemetry in real time. An Isolation Forest anomaly detector identifies abnormal behaviour, while a Remediation Controller validates safety guardrails before interacting with the Kubernetes API to recycle or scale pods.
-
-**Architecture**
+An ML-powered microservices platform that detects infrastructure anomalies and automates Kubernetes remediation.
 
 ```text
 Auth / Order / Inventory Services
-                |
-             RabbitMQ
-                |
-       Prometheus Monitoring
-                |
-       ML Anomaly Detection
-         (Isolation Forest)
-                |
-       Remediation Controller
-                |
-         Safety Guardrails
-                |
-          Kubernetes API
-                |
+              |
+           RabbitMQ
+              |
+     Prometheus Monitoring
+              |
+    ML Anomaly Detection
+      (Isolation Forest)
+              |
+    Remediation Controller
+              |
+       Safety Guardrails
+              |
+        Kubernetes API
+              |
        Automated Recovery
 ```
 
-**Key Engineering Highlights**
+**Key Highlights**
 - ML-based infrastructure anomaly detection.
 - Event-driven microservices architecture.
 - Automated Kubernetes remediation.
 - Monitoring, observability, and recovery guardrails.
 
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_CLOUDPULSE_REPOSITORY_URL)
+
 ---
 
-### 🧠 02. NeuralQuery
+### 🧠 NeuralQuery
 **AI Research Assistant**
 
-`Flask` `PostgreSQL` `Gemini 2.0 Flash` `JWT` `bcrypt` `REST APIs`
+`Flask` `PostgreSQL` `Gemini 2.0 Flash` `JWT` `bcrypt` `PyTorch` `LoRA`
 
-An AI research assistant backend designed to process research queries using Gemini 2.0 Flash, with authentication, structured data storage, and research workflows.
+An AI research assistant that combines multi-source retrieval with grounded LLM synthesis and a custom fine-tuned Qwen2.5-1.5B LoRA adapter.
 
-**Key Engineering Highlights**
-- Built 10+ REST API endpoints.
-- Implemented JWT (HS256) authentication and bcrypt password hashing.
-- Designed a normalized four-table PostgreSQL schema with seven indexes.
+**Key Highlights**
+- 10+ REST API endpoints.
+- JWT authentication and bcrypt password hashing.
+- Four-table PostgreSQL schema with seven indexes.
+- Dual LLM provider architecture: Gemini and custom Qwen LoRA.
+- Source-aware research responses and citation preservation.
 - Deployed on Render.
-- Approximately 79–85% reported accuracy across tested queries.
 
-[↗ View NeuralQuery Repository](https://github.com/shiva-kumar-1319/NeuralQuery)
+[![Repository](https://img.shields.io/badge/GitHub-NeuralQuery-181717?style=for-the-badge&logo=github)](https://github.com/shiva-kumar-1319/NeuralQuery)
 
 ---
 
-### 📄 03. IDQS — Intelligent Document Query System
+### 📄 IDQS — Intelligent Document Query System
 **Multi-PDF Conversational Retrieval**
 
 `LangChain` `FAISS` `flan-t5-base` `NLP` `Vector Search`
 
-A conversational document question-answering system that enables users to retrieve relevant information from multiple PDF documents.
+A conversational document question-answering system that retrieves relevant information from multiple PDF documents using semantic vector search.
 
-Built using LangChain's ConversationalRetrievalChain and a FAISS vectorstore.
-
-**Key Engineering Highlights**
-- Supports querying across up to five PDFs simultaneously.
-- Uses FAISS for vector similarity search.
-- CharacterTextSplitter configured with chunk size 1,000 and overlap 200.
+**Key Highlights**
+- Supports up to five PDFs simultaneously.
+- FAISS vector similarity search.
+- CharacterTextSplitter with 1,000-character chunks and 200-character overlap.
 - Validated across approximately 20–30 test queries.
 
-[↗ View PDF Chat Repository](https://github.com/shiva-kumar-1319/Chat-with-Multiple-PDF-s)
+[![Repository](https://img.shields.io/badge/GitHub-PDF_Chat-181717?style=for-the-badge&logo=github)](https://github.com/shiva-kumar-1319/Chat-with-Multiple-PDF-s)
 
 ---
 
-### 🐾 04. Animal Keypoint Estimation Suite
+### 🐾 Animal Keypoint Estimation Suite
 **Real-Time 2D Skeletal Keypoint Detection**
 
 `YOLOv8` `RTMPose` `ONNX` `Computer Vision` `Deep Learning`
 
-A browser-based real-time animal pose estimation pipeline designed to detect 2D skeletal keypoints across multiple quadruped species.
+A browser-based real-time animal pose estimation pipeline detecting 2D skeletal keypoints across five quadruped species.
 
-Uses YOLOv8-Nano and RTMPose-Medium ONNX models with AP-10K to Animal-Pose 20-joint schema mapping.
-
-**Key Engineering Highlights**
-- Real-time browser-based inference.
+**Key Highlights**
+- Browser-based real-time inference.
 - Supports cats, dogs, cows, horses, and sheep.
-- Shared 20-joint schema across animal species.
-- ONNX-based model inference.
+- Shared 20-joint schema.
+- YOLOv8-Nano + RTMPose-Medium ONNX pipeline.
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](YOUR_ANIMAL_KEYPOINT_REPOSITORY_URL)
 
 ---
 
-## 🧠 Competitive Programming & DSA
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
-Consistently strengthening problem-solving skills through algorithmic practice and competitive programming.
+## 🛠️ Technical Skills
 
-<p align="center">
-  <a href="https://leetcode.com/u/shivakumarnaidu/">
-    <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/profile/Kavali_Shiva_Kumar_Naidu">
-    <img src="https://img.shields.io/badge/Codeforces-1200%20Rating-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/shivakumar1319">
-    <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
 
-| Platform | Achievement |
-|---|---|
-| LeetCode | 500+ problems solved |
-| Codeforces | ~1200 rating, peak ~1255 (Pupil) |
-| CodeChef | 3-Star rated |
+### Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js" />
+
+`SQL`
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+
+`Pandas` `NumPy` `Hugging Face` `LangChain` `FAISS` `Transformers` `RAG`
+
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb" />
+
+`RabbitMQ` `REST APIs` `JWT` `bcrypt` `Microservices`
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,prometheus,grafana,linux" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
+
+</div>
 
 ---
+
+<!-- ═══════════════════════ ACHIEVEMENTS ═══════════════════════ -->
 
 ## 🏆 Achievements
 
-### 🥇 Amazon ML Summer School 2026
+<div align="center">
 
-Selected among the **Top 3,000 participants nationwide**. Focused on core machine learning concepts and applied technical learning.
+| Achievement | Recognition |
+|---|---|
+| 🥇 Amazon ML Summer School 2026 | Selected among Top 3,000 participants nationwide |
+| 🏆 Visionary Hackathon 2.0 — Mercer Mettl / Xathon | Top 10 national finish |
+| 💻 LeetCode | 500+ problems solved |
+| ⭐ CodeChef | 3-Star rated |
+| 🔵 Codeforces | Approximately 1200 rating; peak 1255 (Pupil) |
 
-### 🏆 Visionary Hackathon 2.0 — Mercer Mettl / Xathon
-
-Achieved a **Top 10 national finish** with AuraAssess, a WebXR-based project.
-
-[↗ View AuraAssess Repository](https://github.com/shiva-kumar-1319/Visinory-Hackthon---AuraAssess-WebXR)
+</div>
 
 ---
 
@@ -255,47 +323,36 @@ Achieved a **Top 10 national finish** with AuraAssess, a WebXR-based project.
 
 ## 📚 Currently Learning
 
-`Distributed Systems` · `System Design` · `Kubernetes` · `MLOps` · `Cloud Architecture` · `Advanced ML` · `DSA`
+`Distributed Systems` `System Design` `Kubernetes` `MLOps` `Cloud Architecture` `Advanced ML` `DSA`
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shiva-kumar-1319&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiva-kumar-1319&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com?user=shiva-kumar-1319&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=shiva-kumar-1319&theme=github-compact&hide_border=true" />
-</p>
-
----
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
 
 ## 🤝 Let's Connect
+
+<div align="center">
 
 I'm interested in opportunities and collaborations involving:
 
 **Software Engineering · AI/ML · Backend Development · Cloud Infrastructure · Distributed Systems · Research**
 
-Always open to connecting with engineers, researchers, developers, and teams building interesting technology.
+<br/>
 
-<p align="center">
-  <a href="https://github.com/shiva-kumar-1319">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:shivakumar867df@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/shiva-kumar-kavali-b200342a7/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:shivakumar867df@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://protfolio-orcin-tau.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7B2FFF?style=for-the-badge&logo=vercel"/>
+</a>
 
-<p align="center">
-  <i>Building intelligent systems, one project at a time.</i>
-</p>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FFF,50:00D9FF,100:0D1117&height=120&section=footer" width="100%"/>
+
+**Building intelligent systems, one project at a time.**
+
+</div>
