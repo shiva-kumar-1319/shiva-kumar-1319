@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7B2FFF&height=250&section=header&text=SHIVA%20KUMAR%20KAVALI&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%7C%20BACKEND%20ENGINEER%20%7C%20CLOUD%20%26%20SYSTEMS&descAlignY=58&descSize=16&descColor=00D9FF" width="100%"/>
+<img src="./assets/profile-header.svg" alt="Shiva Kumar Kavali | AI/ML Engineer · Backend Engineer · Cloud & Distributed Systems" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%A4%96+Building+intelligent+systems;%E2%9A%A1+Backend+%26+Distributed+Systems;%F0%9F%A7%A0+Machine+Learning+%26+Deep+Learning;%E2%98%81%EF%B8%8F+Cloud+Native+Engineering;%F0%9F%9A%80+Turning+ideas+into+working+products)](https://git.io/typing-svg)
 
